@@ -2,7 +2,7 @@
   "Name": "designlens",
   "Title": "Design history and architectural decision tracking",
   "Description": "Embeds design history and architectural decisions directly into codebases, making development intent transparent and accessible alongside implementation",
-  "Version": "0.1.2",
+  "Version": "0.1.3",
   "Author": "rOpenSci",
   "License": "MIT",
   "Language": "en-GB",
